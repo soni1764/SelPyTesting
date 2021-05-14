@@ -38,3 +38,4 @@ class Test2(BaseClass):
         assert "Success" in alert_text
 
         confirmpage.get_screenshot()
+

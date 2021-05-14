@@ -1,0 +1,14 @@
+2021-05-15 03:06:21,102: INFO: test_formsubmission: Name is : Tanu
+2021-05-15 03:06:21,249: INFO: test_formsubmission: Email is : abc.123@gmail.com
+2021-05-15 03:06:21,340: INFO: test_formsubmission: Password is : pass1
+2021-05-15 03:06:21,426: INFO: test_formsubmission: Gender is : Female
+2021-05-15 03:06:21,608: INFO: test_formsubmission: ×
+Success! The Form has been submitted successfully!.
+2021-05-15 03:06:29,411: INFO: test_e2e: Getting all the cards title
+2021-05-15 03:06:29,444: INFO: test_e2e: iphone X
+2021-05-15 03:06:29,463: INFO: test_e2e: Samsung Note 8
+2021-05-15 03:06:29,477: INFO: test_e2e: Nokia Edge
+2021-05-15 03:06:29,493: INFO: test_e2e: Blackberry
+2021-05-15 03:06:29,718: INFO: test_e2e: Entering Country name
+2021-05-15 03:06:35,331: INFO: test_e2e: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
